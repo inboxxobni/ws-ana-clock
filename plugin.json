@@ -1,0 +1,9 @@
+{
+  "name": "ws-ana-clock",
+  "description": "A world clock: a home-page widget and a page at /ws-ana-clock.",
+  "requires": [],
+  "inject": ["router", "home"],
+  "provides": [],
+  "dependencies": {},
+  "mount": "a row `- id: ws-ana-clock` / `name: ws-ana-clock` in blend.yaml"
+}
